@@ -16,7 +16,7 @@ export default defineConfig({
         assetsDir: '',
         manifest: true,
         rollupOptions: {
-            input: 'resources/js/app.jsx',
+            input: 'resources/js/Search.jsx',
         },
     },
 });
