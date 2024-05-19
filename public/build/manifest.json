@@ -1,0 +1,23 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-l0sNRNKZ.js",
+    "name": "app",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/Search.jsx": {
+    "file": "assets/Search-CRAGuhXG.js",
+    "name": "Search",
+    "src": "resources/js/Search.jsx",
+    "isEntry": true,
+    "css": [
+      "assets/Search-BhhZvx-F.css"
+    ]
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-DkDdL2UM.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  }
+}
