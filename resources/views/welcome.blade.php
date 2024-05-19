@@ -13,6 +13,7 @@
   
   @viteReactRefresh
  @vite('resources/js/Search.jsx')
+ <script type="module" src="/searchEngine/main.js"></script>
     
 </body>
 </html>
